@@ -1,5 +1,5 @@
 # On-Track
-Indie game combining murder, protection and trains. 🚂
+Indie game combining assasination, bodyguarding and trains. 🚂
 
 ## Development stage
 Current face: **design**.
